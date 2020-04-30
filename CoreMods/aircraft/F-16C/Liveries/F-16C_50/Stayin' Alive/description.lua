@@ -189,7 +189,7 @@ livery = {
 
 
 
-name = "327th DISCO"
+name = "327th FS DISCO"
 --name_ru = "Камуфляж по умолчанию"
 countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
 
