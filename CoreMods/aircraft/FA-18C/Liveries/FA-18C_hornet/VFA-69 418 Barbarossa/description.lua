@@ -1,0 +1,257 @@
+livery = {
+
+	{"f18c1", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"f18c1", 1 ,"F18C_1_NM",false};
+	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIFF_RoughMet",false};
+	
+	{"f18c2", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"f18c2", 1 ,"F18C_2_NM",false};
+	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIFF_RoughMet",false};
+
+	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",false};
+	{"pilot_F18_helmet", 1 ,"pilot_F18_helmet_nm",false};
+	{"pilot_F18_helmet", ROUGHNESS_METALLIC ,"pilot_F18_helmet_RoughMet",false};
+
+	{"pilot_F18_helmet_glass",	DIFFUSE	,	"pilot_f18_visor", false};
+	{"pilot_F18_helmet_glass",	SPECULAR,	"pilot_f18_visor_roughmet", false};
+	
+	{"pilot_F18", 0, "pilot_f18",false};
+
+	{"pilot_F18_patch", 0 ,"pilot_F18_patch",false};
+	{"pilot_F18_patch", 1 ,"pilot_F18_patch_nm",false};
+	{"pilot_F18_patch", 13 ,"pilot_F18_patch_roughmet",false};
+	
+	
+	{"F18C_BORT_NUMBER_NOSE_L_100", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_L_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_L_100", DECAL ,"F18C_bort_number2",true};
+	
+	{"F18C_BORT_NUMBER_NOSE_L_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_L_10", DECAL ,"F18C_bort_number2",true};	
+
+	{"F18C_BORT_NUMBER_NOSE_L_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_L_01", DECAL ,"F18C_bort_number2",true};
+	
+
+	{"F18C_BORT_NUMBER_NOSE_R_100", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_R_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_R_100", DECAL ,"F18C_bort_number2",true};
+	
+	{"F18C_BORT_NUMBER_NOSE_R_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_R_10", DECAL ,"F18C_bort_number2",true};	
+
+	{"F18C_BORT_NUMBER_NOSE_R_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_R_01", DECAL ,"F18C_bort_number2",true};	
+	
+	
+	
+
+	
+	{"F18C_BORT_NUMBER_ZAK_L_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_ZAK_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_ZAK_L_100", DECAL ,"F18C_bort_number2",true};
+	
+	{"F18C_BORT_NUMBER_ZAK_L_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_ZAK_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_ZAK_L_10", DECAL ,"F18C_bort_number2",true};	
+
+	{"F18C_BORT_NUMBER_ZAK_L_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_ZAK_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_ZAK_L_01", DECAL ,"F18C_bort_number2",true};
+	
+	{"F18C_BORT_NUMBER_ZAK_R_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_ZAK_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_ZAK_R_100", DECAL ,"F18C_bort_number2",true};
+	
+	{"F18C_BORT_NUMBER_ZAK_R_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_ZAK_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_ZAK_R_10", DECAL ,"F18C_bort_number2",true};	
+
+	{"F18C_BORT_NUMBER_ZAK_R_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_ZAK_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_ZAK_R_01", DECAL ,"F18C_bort_number2",true};
+
+	
+	
+	{"F18C_BORT_NUMBER_KIL_L_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_L_100", DECAL ,"F18C_bort_number2",true};
+	
+	{"F18C_BORT_NUMBER_KIL_L_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_L_10", DECAL ,"F18C_bort_number2",true};	
+
+	{"F18C_BORT_NUMBER_KIL_L_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_L_01", DECAL ,"F18C_bort_number2",true};	
+	
+	{"F18C_BORT_NUMBER_KIL_R_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_R_100", DECAL ,"F18C_bort_number2",true};
+	
+	{"F18C_BORT_NUMBER_KIL_R_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_R_10", DECAL ,"F18C_bort_number2",true};	
+
+	{"F18C_BORT_NUMBER_KIL_R_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_R_01", DECAL ,"F18C_bort_number2",true};		
+
+	
+	
+	
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_100", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_100", DECAL ,"empty",true};
+	
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_kuw_L_01", DECAL ,"empty",true};
+	
+
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_100", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_100", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_100", DECAL ,"empty",true};
+	
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_kuw_R_01", DECAL ,"empty",true};		
+	
+
+
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", DECAL ,"empty",true};
+	
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", DECAL ,"empty",true};	
+	
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", DECAL ,"empty",true};
+	
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", DECAL ,"empty",true};		
+
+
+
+	
+	
+
+	
+	{"F18C_BORT_NUMBER_NOSE_fin_L_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_fin_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_fin_L_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_NOSE_fin_L_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_fin_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_fin_L_01", DECAL ,"empty",true};
+	
+
+
+	
+	{"F18C_BORT_NUMBER_NOSE_fin_R_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_fin_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_fin_R_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_NOSE_fin_R_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_NOSE_fin_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_NOSE_fin_R_01", DECAL ,"empty",true};			
+	
+	
+
+	
+	{"F18C_BORT_NUMBER_KIL_Switz_R_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_100", DECAL ,"empty",true};
+	
+	{"F18C_BORT_NUMBER_KIL_Switz_R_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_KIL_Switz_R_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_01", DECAL ,"empty",true};	
+	
+	{"F18C_BORT_NUMBER_KIL_Switz_L_100", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_100", DECAL ,"empty",true};
+	
+	{"F18C_BORT_NUMBER_KIL_Switz_L_10", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_KIL_Switz_L_01", 0 ,"F18C_1_DIFF_2_VFA69",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_01", DECAL ,"empty",true};
+
+	
+	
+	
+	{"F18C_BORT_NUMBER_STV_aus_R_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_STV_aus_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_STV_aus_R_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_STV_aus_R_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_STV_aus_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_STV_aus_R_01", DECAL ,"empty",true};	
+	
+	
+	{"F18C_BORT_NUMBER_STV_aus_L_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_STV_aus_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_STV_aus_L_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_STV_aus_L_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_STV_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_STV_aus_L_01", DECAL ,"empty",true};		
+		
+
+	{"F18C_BORT_NUMBER_MTW_aus_R_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_MTW_aus_R_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_MTW_aus_R_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_MTW_aus_R_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_MTW_aus_R_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_MTW_aus_R_01", DECAL ,"empty",true};	
+
+
+	{"F18C_BORT_NUMBER_MTW_aus_L_10", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_MTW_aus_L_10", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_MTW_aus_L_10", DECAL ,"empty",true};	
+
+	{"F18C_BORT_NUMBER_MTW_aus_L_01", 0 ,"F18C_1_DIFF_VFA69",false};
+	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
+	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
+
+
+	{"FPU_8A", 0 ,"FPU_8A_VFA69",false};
+	{"FPU_8A", 2 ,"FPU_8A_Diff_RoughMet",true};
+
+
+
+	
+}
+name = "VFA-69 418 Barbarossa"
+countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
